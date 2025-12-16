@@ -1,4 +1,4 @@
 {
 	$schema: "https://docs.renovatebot.com/renovate-schema.json",
-	extends: ["github>eslint/workflows//.github/renovate/base.json5#feat/pin-github-actions"],
+	extends: ["github>eslint/workflows//.github/renovate/base.json5#fix/ignore-github-actions"],
 }
